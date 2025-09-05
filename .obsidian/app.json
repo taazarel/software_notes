@@ -1,7 +1,7 @@
 {
   "showInlineTitle": false,
   "vimMode": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "foldHeading": false,
   "foldIndent": false,
   "propertiesInDocument": "source",
