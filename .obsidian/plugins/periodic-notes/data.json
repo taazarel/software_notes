@@ -9,13 +9,13 @@
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "010_Periodic_Notes/01_Weekly_Notes",
+    "folder": "01_Periodic_Notes/01_Weekly_Notes",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "010_Periodic_Notes/02_Monthly_Notes",
+    "folder": "01_Periodic_Notes/02_Monthly_Notes",
     "enabled": true
   },
   "quarterly": {
@@ -26,7 +26,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "010_Periodic_Notes/03_Yearly_Notes",
+    "folder": "01_Periodic_Notes/03_Yearly_Notes",
     "enabled": true
   }
 }

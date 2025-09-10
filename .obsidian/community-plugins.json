@@ -1,7 +1,6 @@
 [
   "dataview",
   "obsidian-footnotes",
-  "obsidian-icon-folder",
   "obsidian-latex-suite",
   "obsidian-linter",
   "obsidian-nomnoml-diagram",
@@ -9,10 +8,7 @@
   "settings-search",
   "obsidian-spaced-repetition",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin",
   "various-complements",
   "dbfolder",
-  "obsidian-git",
-  "heatmap-calendar",
   "obsidian-list-callouts"
 ]

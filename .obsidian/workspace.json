@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc652e8033db921",
+        "id": "789818b3f025d889",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb6e7ac4cc61621",
+            "id": "8a7bad5fc24a7df7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,21 +18,63 @@
             }
           },
           {
-            "id": "97f276a39771a73b",
+            "id": "bc65403de6652a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_Periodic_Notes/01_Weekly_Notes/2025-W36.md",
+                "file": "01_Periodic_Notes/01_Weekly_Notes/2025-W37.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W36"
+              "title": "2025-W37"
+            }
+          },
+          {
+            "id": "f5e3eb4cbea2e7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Maths/01_DTG/Partial Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Partial Order"
+            }
+          },
+          {
+            "id": "de2a236458a1b5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Maths/01_DTG/Poset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poset"
+            }
+          },
+          {
+            "id": "84d5c1bdfcf34428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Maths/01_DTG/Relation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relation"
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -90,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a4bb0aa2e705d355",
@@ -106,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "05_Maths/01_DTG/Poset.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Poset"
             }
           },
           {
@@ -134,8 +178,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "574abce1165cc099",
@@ -162,6 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "05_Maths/01_DTG/Poset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Poset"
             }
           },
           {
@@ -180,15 +224,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "05_Maths/01_DTG/Equivalence Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Equivalence Relation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,7 +243,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "dbfolder:Create a new database table": false,
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -209,44 +253,44 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "97f276a39771a73b",
+  "active": "de2a236458a1b5f7",
   "lastOpenFiles": [
-    "010_Periodic_Notes/01_Weekly_Notes/2025-W36.md",
-    "040_Imperative_Programming/Imperative programming.md",
-    "031_P0",
-    "040_Imperative_Programming/Exam.md",
-    "060_Discrete_Maths/Composite of Sets.md",
-    "test/000_Assets/02_PDF's/The Cambridge Handbook of the Learning Sciences 2nd Edition - R. Keith Sawyer.pdf",
-    "test/000_Assets/02_PDF's/Problem Solving and Program Design in C 8th Edition - Jeri Hanly.pdf",
-    "test/000_Assets/02_PDF's/P0_project_catalogue_E25_v2.pdf",
-    "test/000_Assets/02_PDF's/Discrete mathematics and its applications 8th Edition - Kenneth H. Rosen.pdf",
-    "test/000_Assets/02_PDF's/Archive.zip",
-    "test/000_Assets/02_PDF's",
-    "test/060_Discrete_Maths/XOR.md",
-    "test/060_Discrete_Maths/Universal Quantor.md",
-    "test/060_Discrete_Maths/Union of Sets.md",
-    "test/060_Discrete_Maths/Tautology.md",
-    "test/060_Discrete_Maths/Subset.md",
-    "test/060_Discrete_Maths/Set.md",
-    "test/060_Discrete_Maths/Set indentities.md",
-    "test/060_Discrete_Maths/Set Operation.md",
-    "test/060_Discrete_Maths/Relation.md",
-    "test/060_Discrete_Maths/Propositional Function.md",
-    "test/060_Discrete_Maths/Proposition.md",
-    "test/060_Discrete_Maths/Precedence.md",
-    "test/060_Discrete_Maths/Power Set.md",
-    "test/060_Discrete_Maths/Negation.md",
-    "test/060_Discrete_Maths/Multiset.md",
-    "test/060_Discrete_Maths/Logical Equivalences.md",
-    "test/060_Discrete_Maths/Interval.md",
-    "test/060_Discrete_Maths/Intersection of Sets.md",
-    "test/060_Discrete_Maths/Implication.md",
-    "test/060_Discrete_Maths/Existential Quantor.md",
-    "test/060_Discrete_Maths/Disjunction.md",
-    "test/060_Discrete_Maths/Disjointed Sets.md",
-    "test/060_Discrete_Maths",
-    "test/040_Imperative_Programming",
-    "test/020_Coding_Snippets",
+    "05_Maths/01_DTG/Partial Order.md",
+    "01_Periodic_Notes/01_Weekly_Notes/2025-W37.md",
+    "05_Maths/01_DTG/Relation.md",
+    "05_Maths/01_DTG/Poset.md",
+    "05_Maths/01_DTG/Lexicographic Order.md",
+    "05_Maths/01_DTG/Total Order.md",
+    "05_Maths/01_DTG/Totally Ordered.md",
+    "05_Maths/01_DTG/Well-Ordered.md",
+    "05_Maths/01_DTG/Comparable.md",
+    "05_Maths/01_DTG/Equivalence Relation.md",
+    "05_Maths/01_DTG/The Principle of Well-Ordered Induction.md",
+    "05_Maths/01_DTG/Power Set.md",
+    "05_Maths/01_DTG/Disjoint.md",
+    "05_Maths/01_DTG/Set Operation.md",
+    "05_Maths/01_DTG/Intersection of Sets.md",
+    "05_Maths/01_DTG/Union of Sets.md",
+    "05_Maths/01_DTG/Difference of Sets.md",
+    "05_Maths/01_DTG/Equivalence Class.md",
+    "05_Maths/01_DTG/Partition.md",
+    "01_Periodic_Notes/01_Weekly_Notes/2025-W36.md",
+    "05_Maths/01_DTG/Equivalent Elements.md",
+    "02_Coding_Snippets/Hello World.md",
+    "05_Maths/01_DTG/Set.md",
+    "08_Flashcards/02_DTG/Set identities.md",
+    "05_Maths/01_DTG/Set indentities.md",
+    "08_Flashcards/03_PBL",
+    "08_Flashcards/02_DTG",
+    "08_Flashcards/01_IMPR",
+    "08_Flashcards",
+    "05_Maths/01_DTG/Precedence.md",
+    "tracked_files.json",
+    "06_Problem_Based_Learning/01_PBL",
+    "05_Maths/01_DTG",
+    "04_Programming/01_IMPR",
+    "00_Assets/02_PDF's/PBL bog.pdf",
+    "07_Projects",
     "test/000_Assets/01_Pictures/Pasted image 20250904153114.png",
     "test/000_Assets/01_Pictures/Pasted image 20250902162757.png",
     "test/000_Assets/01_Pictures/Pasted image 20250902162451.png",
@@ -254,8 +298,8 @@
     "test/000_Assets/01_Pictures/Pasted image 20250902162115.png",
     "test/000_Assets/01_Pictures/Pasted image 20250902161221.png",
     "test/000_Assets/01_Pictures/Pasted image 20250902155144.png",
-    "000_Assets/01_Pictures/Pasted image 20250904153114.png",
-    "000_Assets/01_Pictures/Pasted image 20250902162757.png",
-    "000_Assets/01_Pictures/Pasted image 20250902162451.png"
+    "00_Assets/01_Pictures/Pasted image 20250904153114.png",
+    "00_Assets/01_Pictures/Pasted image 20250902162757.png",
+    "00_Assets/01_Pictures/Pasted image 20250902162451.png"
   ]
 }

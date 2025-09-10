@@ -11,13 +11,14 @@
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "000_Assets/01_Pictures",
+  "attachmentFolderPath": "00_Assets/01_Pictures",
   "newFileFolderPath": "040_Notes",
   "userIgnoreFilters": [
-    "000_Assets/",
-    "010_Periodic_Notes/",
-    "030_Database/",
-    "020_Coding_Snippets/"
+    "00_Assets/",
+    "01_Periodic_Notes/",
+    "02_Coding_Snippets/",
+    "03_Database/",
+    "08_Flashcards/"
   ],
   "trashOption": "local",
   "alwaysUpdateLinks": true
