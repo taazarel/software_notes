@@ -9,3 +9,5 @@ P(\{ a,b \})=\{ \emptyset,\{ a \},\{ b \},\{ a,b \} \}
 $$
 
 Note that the empty [[Set]] and the set itself are both always [[Subset]]s.
+
+The [[Cardinality]] of a power set is $\lvert P(S)\rvert=2^{\lvert S \rvert}$.
