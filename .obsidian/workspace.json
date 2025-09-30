@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84d5c1bdfcf34428",
+            "id": "0241c1c261c2bf6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Periodic_Notes/01_Weekly_Notes/2025-W40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-W40"
+            }
+          },
+          {
+            "id": "d083f66790ce8ae7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,25 +30,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "091c4fbb9334d480",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Periodic_Notes/01_Weekly_Notes/2025-W38.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-W38"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -182,20 +179,22 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "091c4fbb9334d480",
+  "active": "0241c1c261c2bf6f",
   "lastOpenFiles": [
-    "05_Maths/01_DTG/Relation.md",
+    "05_Maths/01_DTG/Boolean Product of Matrices.md",
+    "01_Periodic_Notes/01_Weekly_Notes/2025-W40.md",
+    "01_Periodic_Notes/01_Weekly_Notes/2025-W39.md",
+    "05_Maths/01_DTG/Closure.md",
     "01_Periodic_Notes/01_Weekly_Notes/2025-W38.md",
+    "05_Maths/01_DTG/Relation.md",
     "05_Maths/01_DTG/Bi-Implication.md",
     "05_Maths/01_DTG/Cardinality of Intersections & Unions.md",
     "05_Maths/01_DTG/Cardinality.md",
     "08_Flashcards/02_DTG/Set identities.md",
     "06_Problem_Based_Learning/01_PBL/Sustainability.md",
     "02_Coding_Snippets/Hello World.md",
-    "05_Maths/01_DTG/Boolean Product of Matrices.md",
     "05_Maths/01_DTG/Composite of Sets.md",
     "05_Maths/01_DTG/Powers of Relations.md",
-    "05_Maths/01_DTG/Closure.md",
     "05_Maths/01_DTG/Equivalence Class.md",
     "05_Maths/01_DTG/Equivalence Relation.md",
     "00_Assets/02_PDF's/1.4DTG_with_notes.pdf",
@@ -221,8 +220,6 @@
     "05_Maths/01_DTG/Partial Order.md",
     "05_Maths/01_DTG/Lexicographic Order.md",
     "05_Maths/01_DTG/Total Order.md",
-    "05_Maths/01_DTG/Totally Ordered.md",
-    "05_Maths/01_DTG/Well-Ordered.md",
     "08_Flashcards/03_PBL",
     "08_Flashcards/02_DTG",
     "08_Flashcards/01_IMPR",
