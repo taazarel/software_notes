@@ -11,10 +11,14 @@
             "id": "d083f66790ce8ae7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "05_Maths/01_DTG/Bi-Implication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bi-Implication"
             }
           },
           {
@@ -23,29 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Periodic_Notes/01_Weekly_Notes/2025-W40.md",
+                "file": "01_Periodic_Notes/01_Weekly_Notes/2025-W41.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W40"
+              "title": "2025-W41"
             }
           },
           {
-            "id": "ff9985ee0ec79503",
+            "id": "ed5c2b126b813760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Maths/01_DTG/Exponent.md",
+                "file": "05_Maths/01_DTG/Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponent"
+              "title": "Algorithm"
+            }
+          },
+          {
+            "id": "bd72e7a0de31d19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Maths/01_DTG/Big-O Notation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big-O Notation"
+            }
+          },
+          {
+            "id": "3ea8eef3dc5ae772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Maths/01_DTG/Floor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Floor"
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -193,10 +226,27 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d083f66790ce8ae7",
+  "active": "3ea8eef3dc5ae772",
   "lastOpenFiles": [
-    "05_Maths/01_DTG/Exponent.md",
+    "05_Maths/01_DTG/Big-O Notation.md",
+    "05_Maths/01_DTG/Algorithm.md",
+    "05_Maths/01_DTG/Relation.md",
+    "05_Maths/01_DTG/Relation Operations.md",
+    "05_Maths/01_DTG/XOR.md",
+    "04_Programming/01_IMPR/Order of Operations.md",
+    "01_Periodic_Notes/01_Weekly_Notes/2025-W41.md",
     "01_Periodic_Notes/01_Weekly_Notes/2025-W40.md",
+    "05_Maths/01_DTG/Bi-Implication.md",
+    "05_Maths/01_DTG/Proposition.md",
+    "05_Maths/01_DTG/Disjunction.md",
+    "05_Maths/01_DTG/Conjunction.md",
+    "00_Assets/01_Pictures/Pasted image 20251003131821.png",
+    "04_Programming/01_IMPR/Logical programming.md",
+    "05_Maths/01_DTG/Injective.md",
+    "05_Maths/01_DTG/Intersection of Sets.md",
+    "05_Maths/01_DTG/Composite of Functions.md",
+    "02_Coding_Snippets/Rock Paper Scissors.md",
+    "05_Maths/01_DTG/Exponent.md",
     "00_Assets/01_Pictures/Pasted image 20250930155848.png",
     "05_Maths/01_DTG/Logarithm.md",
     "00_Assets/01_Pictures/Pasted image 20250930155816.png",
@@ -207,32 +257,16 @@
     "00_Assets/02_PDF's/Problem Solving and Program Design in C 8th Edition - Jeri Hanly.pdf",
     "05_Maths/01_DTG/Floor.md",
     "05_Maths/01_DTG/Inverse Function.md",
-    "05_Maths/01_DTG/Composite of Functions.md",
     "00_Assets/01_Pictures/Pasted image 20250930133939.png",
-    "05_Maths/01_DTG/Injective.md",
     "05_Maths/01_DTG/Increasing Function.md",
-    "05_Maths/01_DTG/Function.md",
     "00_Assets/01_Pictures/Pasted image 20250930132722.png",
-    "05_Maths/01_DTG/Bijective.md",
     "00_Assets/01_Pictures/Pasted image 20250930130404.png",
-    "05_Maths/01_DTG/Decreasing Function.md",
     "00_Assets/01_Pictures/Pasted image 20250930130226.png",
     "00_Assets/01_Pictures/Pasted image 20250930130220.png",
-    "05_Maths/01_DTG/Image of a Subset.md",
     "00_Assets/01_Pictures/Pasted image 20250930125252.png",
     "00_Assets/01_Pictures/Pasted image 20250930124007.png",
-    "05_Maths/01_DTG/Closure.md",
-    "05_Maths/01_DTG/Relation.md",
-    "05_Maths/01_DTG/Boolean Product of Matrices.md",
-    "01_Periodic_Notes/01_Weekly_Notes/2025-W38.md",
-    "05_Maths/01_DTG/Bi-Implication.md",
-    "05_Maths/01_DTG/Cardinality of Intersections & Unions.md",
-    "05_Maths/01_DTG/Cardinality.md",
-    "08_Flashcards/02_DTG/Set identities.md",
-    "06_Problem_Based_Learning/01_PBL/Sustainability.md",
     "00_Assets/02_PDF's/1.4DTG_with_notes.pdf",
     "00_Assets/02_PDF's/Unconfirmed 204960.crdownload",
-    "00_Assets/01_Pictures/Pasted image 20250916135252.png",
     "00_Assets/02_PDF's/PBL_Bog/Discrete mathematics and its applications 8th Edition - Kenneth H. Rosen.pdf",
     "00_Assets/02_PDF's/PBL_Bog",
     "08_Flashcards/03_PBL",

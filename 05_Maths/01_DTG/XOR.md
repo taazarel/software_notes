@@ -4,6 +4,8 @@ This is called XOR/Exclusive OR it is written as $\oplus$.
 
 We can use this operator to find cases where both variables are unique/exclusive.
 
+[[Bi-Implication]] is the opposite of XOR.
+
 | p   | q   | p x q |
 | --- | --- | ----- |
 | T   | T   | F     |
